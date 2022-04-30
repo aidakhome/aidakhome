@@ -4,7 +4,7 @@ I'm a 16-year-old developer, community manager and moderator.
 
 ## 🔭 Experience
 I'm a full-stack developer, experienced in creating backend systems using TypeScript, Rust and Go.
-I'm also into web development, using (only sometimes pls pure HTML), React and EJS. I also style with CSS and SCSS.
+I'm also into web development, using (only sometimes pls) pure HTML, React and EJS. I also style with CSS and SCSS.
 
 ## 📫 Contact
 
