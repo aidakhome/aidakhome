@@ -4,5 +4,3 @@
 </p>
 
 <hr>
-
-<img style="width: 100%;" src="https://file.coffee/u/lvH49roiL37956DfVLXFZ.png">
